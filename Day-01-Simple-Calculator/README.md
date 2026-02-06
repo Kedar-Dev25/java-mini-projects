@@ -1,4 +1,12 @@
+<div align="center">
+
 # 🧮 Day 01 – Simple Calculator (Java)
+
+### _A Beginner-Friendly Introduction for Java Projects_
+
+<img src="assets\output.png" alt="Output Of Simple Calculator" width="650"/>
+
+---
 
 A clean, console-based **Simple Calculator** built using Core Java.  
 This project focuses on strengthening **basic logic, input handling, and method structure** — the foundation of every Java application.
@@ -111,9 +119,14 @@ Handle division by zero more safely
 
 Convert to menu-driven calculator
 
-🔜 Day 02 Preview
-📘 Day 02 – Even/Odd & Prime Number Checker
+## ⏭️ What’s Next?
+
+<div align="center">
+
+### 👉 **Day 02 – Even/Odd & Prime Number Checker**
 
 ➡️ Folder:
 👉 Day-02-Even-Odd-Prime-Checker
 ```
+
+<br/>
