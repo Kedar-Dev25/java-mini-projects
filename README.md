@@ -1,13 +1,13 @@
 <div align="center">
-  <br />
-    <img src="https://i.pinimg.com/1200x/25/5e/6a/255e6a9ce78282a79d736713a65c289b.jpg" alt="Java Mini Projects Banner">
-  <br />
+
 
   <div>
     <img src="https://img.shields.io/badge/Java-Core-orange?style=for-the-badge&logo=java" />
     <img src="https://img.shields.io/badge/Mini_Projects-Practical-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Backend_Focused-Yes-success?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Learning-Concept_Driven-informational?style=for-the-badge" />
+
+
   </div>
 
   <h3 align="center">Java Mini Projects</h3>
@@ -15,6 +15,9 @@
   <p align="center">
     Applying Java fundamentals through small, well-structured, real-world projects.
   </p>
+  <br>
+  <img src="./assets/Java-mini-project-repo.png" alt="Java Mini Projects Banner" width="650" align="center">
+  <br />
 </div>
 
 ---
@@ -42,39 +45,40 @@ Understanding Java concepts is important, but **applying them correctly is what 
 **`java-mini-projects`** exists to translate Java fundamentals into **practical, working applications**, focusing on structure, clarity, and real-world thinking rather than flashy demos.
 
 This repository is for:
-- Computer engineering students  
-- Java and backend-focused learners  
-- Developers building strong project foundations  
+
+- Computer engineering students
+- Java and backend-focused learners
+- Developers building strong project foundations
 
 ---
 
 ## 🎯 Goals & Outcomes
 
-- Apply Java fundamentals in real scenarios  
-- Strengthen OOP and design understanding  
-- Practice clean, readable, maintainable code  
-- Learn how small systems are structured  
-- Build credible, interview-ready projects  
+- Apply Java fundamentals in real scenarios
+- Strengthen OOP and design understanding
+- Practice clean, readable, maintainable code
+- Learn how small systems are structured
+- Build credible, interview-ready projects
 
 ---
 
 ## 🗂️ Repository Structure
 
-```text
-java-mini-projects/
-├── beginner/
-│   ├── core-java/
-│   └── console-based/
-├── intermediate/
-│   ├── file-handling/
-│   └── oops-driven/
-├── backend-oriented/
-│   ├── layered-structure/
-│   └── basic-services/
-└── README.md
+java-mini-projects/<br>
+├── beginner/<br>
+│ ├── core-java/<br>
+│ └── console-based/<br>
+├── intermediate/<br>
+│ ├── file-handling/<br>
+│ └── oops-driven/<br>
+├── backend-oriented/<br>
+│ ├── layered-structure/<br>
+│ └── basic-services/<br>
+└── README.md<br>
 Projects are organized by difficulty and learning focus.
 
-🧭 Engineering Journey Fit
+## 🧭 Engineering Journey Fit
+
 This repository is part of a disciplined roadmap including:
 
 Java fundamentals and daily DSA practice
@@ -87,7 +91,8 @@ System design fundamentals
 
 It represents the application layer of the overall learning journey.
 
-⭐ What Makes This Different
+## ⭐ What Makes This Different
+
 Concept-driven projects, not copied tutorials
 
 Emphasis on structure, not just output
@@ -98,7 +103,8 @@ Focus on Java best practices
 
 Built for long-term portfolio growth
 
-🛠️ How to Use This Repository
+## 🛠️ How to Use This Repository
+
 Start with beginner projects
 
 Understand the problem before coding
@@ -109,12 +115,14 @@ Improve structure and readability
 
 Revisit older projects as skills grow
 
-🔁 Learning Philosophy
+## 🔁 Learning Philosophy
+
 Small projects, done correctly, build strong engineers.
 
 Consistency matters more than size or speed.
 
-💼 Interview Relevance
+## 💼 Interview Relevance
+
 Demonstrates applied Java knowledge
 
 Shows OOP and design thinking
@@ -123,7 +131,8 @@ Provides real projects to discuss in interviews
 
 Reflects disciplined coding habits
 
-🛣️ Future Roadmap
+## 🛣️ Future Roadmap
+
 Backend-focused Java mini projects
 
 Database-integrated applications
@@ -134,11 +143,13 @@ Design-focused refactoring examples
 
 Interview-oriented project explanations
 
-🤝 Contributions
+## 🤝 Contributions
+
 Suggestions and improvements are welcome.
 Fork, experiment, and learn responsibly.
 
-🚀 Closing Note
+## 🚀 Closing Note
+
 Projects reveal how an engineer thinks and codes.
 
 This repository is built to reflect clarity, discipline, and growth —
