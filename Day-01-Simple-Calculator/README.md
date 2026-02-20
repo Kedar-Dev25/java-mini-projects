@@ -1,4 +1,4 @@
-
+This project is easy for beginners to understand Java basics.
 
 # 🧮 Day 01 – Simple Calculator (Java)
 
